@@ -9,6 +9,8 @@ To be handled:
 --- 
 Hi, thanks for taking the time to check it out. If possible, I'd love to get some pointers from you on what can be improved.    
 
+Here's my contact info: Magda Zaras, magdalena.zaras@gmail.com
+
 Best regards,
 Magda
 
