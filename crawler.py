@@ -105,21 +105,6 @@ class WebScraper:
                                      'No of external links': (len(self.external_links[
                                                                       current_master_page]) if current_master_page in self.external_links else "0"),
                                      'No of times url was referenced by other pages': "..."}
-
-                # or {'url: link["href"] ?
-                self.final_results.append(new_sublinks_dict)
-
-
-                call_count = 0
-                if current_master_page in self.internal_links:
-                    call_count += 1
-                new_sublinks_dict = {'url': link["href"], 'Title': (
-                    self.titles[current_master_page] if current_master_page in self.titles else ""),
-                                     'No of internal links': (len(self.internal_links[
-                                                                      current_master_page]) if current_master_page in self.internal_links else "0"),
-                                     'No of external links': (len(self.external_links[
-                                                                      current_master_page]) if current_master_page in self.external_links else "0"),
-                                     'No of times url was referenced by other pages': call_count}
                 self.final_results.append(new_sublinks_dict)
 
             # if len(self.main_page_and_subpages) > 300:  # if crawling takes too long over all the subpages
