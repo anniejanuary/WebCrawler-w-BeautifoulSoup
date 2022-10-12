@@ -1,7 +1,7 @@
 # APP_WebCrawler
 
 --- 
-Hi, thanks for taking the time to check out my web crawler. I'm very much looking forward to getting any and all impressions from you.
+Hi, thanks for taking the time to check out my web crawler. I'm very much looking forward to hearing any impressions of it you might have.
 Here's my contact info: Magda Zaras, magdalena.zaras@gmail.com
 
 Best regards,
