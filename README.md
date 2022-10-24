@@ -1,14 +1,5 @@
 # APP_WebCrawler
 
---- 
-Hi, thanks for taking the time to check out my web crawler. I'm very much looking forward to hearing any impressions of it you might have.
-Here's my contact info: Magda Zaras, magdalena.zaras@gmail.com
-
-Best regards,
-Magda
----
-
-
 Run crawler.py for the WebCrawler script to crawl through BASE_URL argument passed as a parameter. 
 
 
